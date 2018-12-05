@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c5cd3b5cd85840f9aa290e239d6b77ed)](https://www.codacy.com/app/PownJS/terraform-aws-osquery?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=opendevsecops/terraform-aws-osquery&amp;utm_campaign=Badge_Grade)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/opendevsecops.svg?logo=twitter)](https://twitter.com/opendevsecops)
 
 # AWS OSQuery Terraform Module
